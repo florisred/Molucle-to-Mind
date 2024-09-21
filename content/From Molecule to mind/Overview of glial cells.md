@@ -1,0 +1,7 @@
+|                  |                                                |                                                                                |                                                                               |
+| ---------------- | ---------------------------------------------- | ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------- |
+| **Cell Type**    | **Location**                                   | **Function**                                                                   | **Special Features**                                                          |
+| Astrocytes       | Central nervous system (brain and spinal cord) | Maintain chemical environment for neuronal signaling, form blood-brain barrier | Elaborate local processes giving a starlike appearance                        |
+| Oligodendrocytes | Central nervous system                         | Lay down myelin around axons, enhancing signal transmission                    | Produce myelin; subsets retain neural stem cell properties                    |
+| Microglial cells | Brain                                          | Scavenge cellular debris, secrete cytokines for inflammation modulation        | Derived from hematopoietic precursor cells; share properties with macrophages |
+![[Pasted image 20240910111256.png]]

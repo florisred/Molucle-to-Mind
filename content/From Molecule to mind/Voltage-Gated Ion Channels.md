@@ -1,0 +1,17 @@
+## Voltage-gated Ion Channels
+- The Na<sup>+</sup> channel functions similarly to the K<sup>+</sup> channel but has different subunits and a narrower pore to allow only Na<sup>+</sup> ions to pass.
+    - Na<sup>+</sup> channels have accessory proteins called β subunits that regulate their function.
+    - Some Na<sup>+</sup> channels produce a persistent current, which helps regulate the action potential threshold.
+- The Ca<sup>2+</sup> channel consists of six membrane-spanning regions repeated 4 times.
+    - Regulates diverse cellular signaling processes and homeostasis.
+    - Plays a key role in neurotransmitter release at synapses.
+    - Ten different Ca<sup>2+</sup> ion channel genes have been identified (**CACNA genes**), which vary in activation and inactivation properties.
+    - Voltage-gated Ca<sup>2+</sup> channels can prolong action potentials by affecting intracellular Ca<sup>2+</sup> concentrations.
+- Over 100 K<sup>+</sup> channel genes (**KCN genes**) have been identified, with a wide variety of functions.
+    - These channels differ in activation, gating, and inactivation properties.
+    - Certain K<sup>+</sup> channels are also sensitive to intracellular Ca<sup>2+</sup> levels.
+    - Includes specialized channels like inward rectifier K<sup>+</sup> channels and 2-P channels, which have different structural features.
+- Cl<sup>-</sup> genes are called **CLCN genes**.
+    - Present in all types of neurons, they regulate excitability, resting membrane potential, and cell volume.
+    - Structurally distinct from other ion channels, consisting of two subunits, each with its own pore.
+    - Their voltage dependence arises from the movement of negatively charged amino acids near the selectivity filter, not traditional voltage sensors

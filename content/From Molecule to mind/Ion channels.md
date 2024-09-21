@@ -1,0 +1,24 @@
+## Ion channels & how they work
+- Are ion selective --> only pass a single type of ion
+- some are [[Voltage-Gated Ion Channels]]
+	- Depolarization increases chance of channel opening
+		- So, must have a *voltage sensor*
+		- And since Na+ channels are inactivated by depolarization, they must have an additional mechanism for that
+		- [[Timeline Na+ and Ka+ channel]]
+-  Over 200 ion channel genes have been found
+	- Many different ways of interacting and different ions
+		- Some open based on displacement, or temperature
+	- 10 different human Na+ channel genes
+- Some are [[Other types of ion-channel gates]]
+### K<sup>+</sup> channel
+- Consists of four *subunits* that cross the plasma membrane twice
+- Between them a *pore loop* in the plasma membrane
+	- Come together to form a pore that only allows K+ to pass
+		- Specifically,  *non-hydrated K+*
+	- Only this can pass as the beginning is too narrow for bigger ions, and the pore walls are too far apart for other, smaller ions to stabilize and pass. 
+	- This creates the *selectivity filter*
+- There is a *cavity* filled with water in the middle, where using negative charges form the pore helix they are dehydrated
+	- The 'naked' ions are then able to go outside the cell, sped up bc there are 4 ions pushing each other away with electrostatic repulsion
+- **Voltage gated** channels are due to a regulatory β subunit and a T1 domain that links the β subunit to the channel
+	- Has four different transmembrane structures that sense the voltage
+- [[Strucuture of a mammalian voltage-gated K+ channel]]
