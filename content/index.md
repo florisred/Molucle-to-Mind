@@ -1,27 +1,26 @@
-# Introduction
-## [[Ch 1. Neuroscience, Studying the nervous system]]
--  [[Genetics and Genomics]]
-- [[Cellular components of the nervous system]]
-- [[Neurons]]
-- [[Glial Cells]]
-- [[Neural Circuits]]
-- [[Organization of the Human Nervous System]]
-- [[Neural systems]]
-- [[Brain Imaging techniques]]
-# Unit 1, Neural Signaling
-## [[Ch2. Neuroscience, Electrical Signals of Nerve Cells]]
-- [[Electrical Signals of Nerve cells]]
-- [[Ion movements, potentials, and electrical signals]]
-## [[Ch3. Neuroscience, Voltage-dependent Membrane Permeability, Action potentials and Myelination]]
-- [[Ion currents across nerve cell membranes]]
-- [[Voltage-dependent membrane conductances]]
-- [[Action potentials]]
-- [[Myelination]]
-## [[Ch4. Ion channels and transporters]]
-- [[The discovery of ion channels]]
-- [[Ion channels]]
-- [[Voltage-Gated Ion Channels]]
-- [[Other types of ion-channel gates]]
-- [[Active transporters]]
-## Ch 5
-## [[Ch6. Neurotransmitters and Their Receptors]]
+# Books
+[[Cell Biology]]
+[[Purves- Neuroscience 6th edition]]
+
+# Lectures
+## About the books
+#### Purves
+- [[Lecture 1 MtM, 02-09-2024]]
+- [[Lecture 2 MtM, 02-09-2024]]
+- [[Lecture 3 MtM, 09-09-2024]]
+- [[Lecture Ion Channels]]
+- [[Lecture Postsynaptic Organization, 12-9-2024]]
+#### Essential Cell Biology
+- [[Lecture Cell Biology 15]]
+- [[Lecture EBC chapter 4, protein structure and function, 16-09-2024]]
+- [[Lecture ECB chapter 16]]
+- [[Lecture ECB chapter 5]]
+## Not in the books
+#### Invertebrate model organisms, M&M in neuroscience
+- *[[Lecture Yeast Model organism, 16-09-2024]]*
+-  *[[Lecture C. Elegans (Roundworm), 18-09-2024]]*
+- *[[Lecture Drosophila, 20-09-2024]]*
+#### Optogenics
+- [[Lecture Optogenics 1, 19-09-2024]]
+
+
