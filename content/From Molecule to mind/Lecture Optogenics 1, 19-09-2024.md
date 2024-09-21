@@ -1,11 +1,11 @@
 # [[unrelated, Reading a primary scientific article]]
 
-# ![[Optogenics]]
+# [[Optogenics]]
 # Linking cellular and synaptic function to behavior
 ## Genetic targeting of cell types
 ### Basil Ganglia & movement
 - We know this about 
-- ![[Basal Ganglia]]
+- [[Basal Ganglia]]
 - The question was, weather this classical model of D1R (direct pathway) and D2R (indirect pathway) was correct:
 ![[Pasted image 20240919114317.png|400]]
 ![[Pasted image 20240919115115.png]]
