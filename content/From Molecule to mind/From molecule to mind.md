@@ -16,6 +16,9 @@
 - [[Lecture ECB chapter 16]]
 - [[Lecture ECB chapter 5]]
 ## Not in the books
+#### Neuroanatomy 
+- [[Presentations 23-09-2024]]
+
 #### Invertebrate model organisms, M&M in neuroscience
 - *[[Lecture Yeast Model organism, 16-09-2024]]*
 -  *[[Lecture C. Elegans (Roundworm), 18-09-2024]]*

@@ -1,7 +1,7 @@
 # Ion movements and electrical signals
 - **Differences in concentrations of specific ions** cause electrical potentials between the inside and outside of the cell
 	- These differences come about due to the *selective permeability* of nerve cells
-	- This is done by *active transporters*, proteins that move ions in- and out of the cell against concentration gradient
+	- This is done by [[active transporters]], proteins that move ions in- and out of the cell against concentration gradient
 	- **Ion channels** allow for *passive diffusal* along the concentration gradient
 - **Differences in electric charge** can also affect the balance. 
 	- Negative ions want to go to a more positive location
