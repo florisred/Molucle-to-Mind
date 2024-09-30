@@ -23,5 +23,11 @@
 - [[Voltage-Gated Ion Channels]]
 - [[Other types of ion-channel gates]]
 - [[Active transporters]]
-## Ch 5
+## [[Ch5. Synaptic transmission]]
+-  [[Basic Definitions]]
+- [[Signaling with synapses]]
+- [[Neurotransmitters & their release]]
+- [[Neurotransmitter receptors]]
+- [[EPSP, IPSP, and potential summation]]
+
 ## [[Ch6. Neurotransmitters and Their Receptors]]

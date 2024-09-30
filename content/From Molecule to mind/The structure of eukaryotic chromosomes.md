@@ -52,7 +52,7 @@
 - Histones form the *nucleosome*, the first and most fundamental level of chromatin packing
 - When breaking up a cell in the *interphase*, most chromatin is in the form of *chromatin fibers*
 	- Can be seen as a series of *[[beads on a string]]* 
-	- An *individual nucleosome core particle* consists of a complex of *eight histone proteins*—two molecules each of histones H2A, H2B, H3, and H4—and a stretch of *double-stranded DNA* winding around this *histone*
+	- An *individual nucleosome core particle* consists of a complex of *eight histone proteins*—two molecules each of histones H2A, H2B, H3, and H4—and a stretch of *double-stranded DNA* winding around this *histone* --> we call this a *histone octomer*
 - Formation of nucleosomes converts a *DNA molecule into a chromatin thread* that is approximately *one-third the length* of the initial piece of DNA, and it provides the first level of DNA packing
 	- I know this makes no sense, but look at [[histones & coiling|this]] and see how it coils, kinda makes sense.
 	- Held together by positive charges that attach to the DNA sugars
