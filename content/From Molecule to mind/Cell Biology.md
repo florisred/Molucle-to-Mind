@@ -10,3 +10,5 @@
 - [[The regulation of Chromosome Structure]]
 
 ## [[Ch.7 ECB, From DNA to Protein]]
+- [[From DNA to RNA]]
+- [[From RNA to Protein]]
