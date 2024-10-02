@@ -1,3 +1,4 @@
+[[Ch5. Synaptic transmission]]
 ## Types of synapses
 ### Electrical synapse
 - Passive

@@ -17,7 +17,7 @@
 ### Oligodendrocytes
 - Only in *CNS*
 - Create *Myelin* on *Schwann cells*
-- Some oligodendrocytes and schwann cells can also act as stem cells
+- Some oligodendrocytes and Schwann cells can also act as stem cells
 ### Microglial cells
 -  Derived from *hematopoietic precursor cells*
 - Share many properties with *macrophage cells*

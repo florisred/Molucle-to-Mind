@@ -1,0 +1,81 @@
+# Components of cytoskeleton
+- Intermediary filaments
+	- Ropelike fibres with diameter of 10nm
+	- meshwork called nuclear lamina
+	- gives mechanical strength
+- Microtubules
+	- Long, hollow cylinders diameter *25nm*
+	- made of *tubulin*
+	- often bound to *centrosome*
+- Actin filaments
+	- *also called microfilaments*
+	- Helical polymers of *actin*
+	- flexible, diameter *7nm*
+## Intermediary Filaments
+- Built from monomers -> amino and carboxyl group wich can attach to one another and forms dimers / tetramers
+- Helps give cells the ability to stretch, so they don't rupture
+	- Gives strength to *nuclear membrane*
+	- Done by meshwork of intermediary filaments in the nucleus called *nuclear envelope*
+![[Pasted image 20241002092226.png]]
+## [[Microtubules]]
+- Play different roles
+- They grow from the *centrosome* or basal bodies. 
+	- Cell division starts with the division of the *centrosome* and *nuclei*
+- Also present in a *ciliated cell*
+	- Then originate form *basal bodies*
+- *Tubulin heterodimers* are the subunits of microtubules
+	- They grow from the top with altering alpha & beta subunits
+	- *Lumen* = inside, but nothing goes through
+	- *Protofilament* is a single line of tubulin heterodimer -> does not actually exist in real life, mostly for us to grasp it better.
+- *Centrosomes* consist of *gamma-tubulin* rings. 
+	- From there microtubules can grow
+### How do microtubules grow?
+- Growing starts at the *+ end* (not electric charge, just for us)
+- Tubulin heterodimers are *bound with GTP*
+	- These *GTP-caps* stabalize the tubule
+		- If it *hydrolyses* (GTP TO GDP), it is *destabilized*
+	- Then, GDP tubulin is released back to the cytosol
+		- The *microtubules* are shrunk then. 
+	- This happens *enzymatically*, and therefore we need another stabilizer  other than *GTP-caps*
+- *Capping proteins* sit on the cell membrane or organelle
+	- If a microtubule reaches it, it stabilizes it permanently
+- This is very wasteful, but this is the cell fighting against the *second law of thermodynamics* --> always fighting against chaos
+![[Pasted image 20241002094420.png]]
+### Motor proteins
+- Drive transport in a neuron along *microtubules*
+	- They 'walk' along it, transporting cargo
+		- can be anything that can connect via adaptor protein
+- Can walk from + to - and from - to +
+	- Using *kinesin heads* to attach to the tubules
+- They are able to pull very large things like *organelles* or even *silica beads* (in experiments)
+- Done y the *kinesine motor-protein*
+	- Two 'shoes' -> one binds to the tubule, releases ADP, takes in ATP, makes conformational change --> throws other shoe forwards, releases ADP, binds ATP, conformational change
+		- etc
+	- Costs a lot of ATP.
+## Actin filaments
+- Often found *beneath* the cell membrane
+	- Can be seen during cell growth, or to divide cells (with rings)
+- Built from monomers --> same molecule the entire time
+	- contrasts with *microtubules*
+	- However, there is directionality due to the *contact sites* not being the same --> [[Figure actin directionality]]
+		- + end is again the growing end
+- Actin is again stabilized by bound *ATP*
+	- ATP binds to actin, changes formation, changes affinity
+		- Now want to bind with other actin molecules
+	- When ATP *hydrolyzes* the actin is destabilized again
+- Many different proteins regulate actin in the cytoskeleton
+- In the cell, actin is very *dynamic*
+	- growing / shrinking all the time
+	- play a role in *cell movement* --> [[Cell movement actin figure]]
+		- Have actin beneath the cell membrane
+		- The actin will grow at the *leading edge* 
+			- Pushes forward the cell membrane
+		- On the back end, there is *contraction*
+			- *actin broken down*
+- *[[Leading edge]]*
+	- A cell that *grows in one direction* protrudes its membrane
+	- *lamellipodium* = the actin that pushes the cell forward
+	- ARP complex binds to the actin, and creates a new actin line
+	- At the other side, it breaks down
+- *Myosin* is a motor protein involved in transport along the actin filaments
+	- It binds to proteins anchored in the cell membrane, so when *myosin* starts transporting, it pushes or pulls the *cytoskeleton*

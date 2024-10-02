@@ -1,3 +1,7 @@
+[[Ch2. Neuroscience, Electrical Signals of Nerve Cells]]
+[[Ch3. Neuroscience, Voltage-dependent Membrane Permeability, Action potentials and Myelination]]
+[[Ch4. Ion channels and transporters]]
+
 # Chapter 2-4
 - all neurons have a membrane potential that is lower than 0
 - Researcher can manipulate current with electrodes
