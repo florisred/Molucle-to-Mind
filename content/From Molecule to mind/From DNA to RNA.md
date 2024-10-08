@@ -27,9 +27,9 @@
 - Sometimes the final product is the RNA
 	- Various roles, regulatory, structural, and catalytic components
 	- [[Table of RNA types]]
-## Promotor & terminator
+## Promoter & terminator
 - When *RNA polymerase* randomly encounters DNA, it will stick weakly to the DNA
-	- It will find a *promotor sequence* in a gene, and bind
+	- It will find a *promoter sequence* in a gene, and bind
 	- This opens up the double helix, and starts the transcription
 	- Will continue until it finds a *terminator* --> stops transcription
 - [[Transcription figure]] -> explains it quite well

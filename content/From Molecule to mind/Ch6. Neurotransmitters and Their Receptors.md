@@ -6,22 +6,16 @@
 		- E.G. *GABA*, *acetylcholine*, *serotonin*, and *histamine*
 		- Subcategory: *biogenic amines* 
 - [[Overview of the most important neurotransmitters and their functions]]
-## Acetylcholine
-- *ACh* was the *first neurotransmitter* to be discovered
-- Active in *skeletal muscular junctions* --> [[Neurotransmitters & their release#Quantal Release of Neurotransmitters|discussed here earlier]]
-- Also active in the CNS --> we don't know much about that yet
-- Synthesized in the *nerve terminal* from Acetyl coenzyme and Choline
-- Afterwards, 10,000 molecules are put in a *cholinergic* vesicle 
-- In synapse re-uptake is done by *acetylcholinesterase (AChE)* in *synaptic cleft*
-	- Can be taken advantage of by inhibiting AChE (*Organophosphates*)
-		- Causes ACh to be built up at synaptic cleft, depolarizing cells --> lethal
-		- Insects very sensitive to this --> used in insecticides
-- Often mediated by *[[nicotinic ACh receptor figure]] (nAChR)* -> bc *nicotine* also binds there
-	- [[Other types of ion-channel gates#Ligand-Gated Ion Channels|ligand-gated receptor]]
-	- *large protein complexes* made out of *five subunits*
-		- Two *alpha-subunits* --> binding sites of ACh (two must be bound to activate)
-		- Each have a large extracellular domain, and 4 membrane-spanning domains
-		-  The transmembrane domains of the five individual subunits together form a channel with a central membrane-spanning pore -> big pore -> thats why the receptor cannot discriminate between many different types of neurotransmitters
-- Another type of ACh receptor: *muscarinic ACh receptors (mAChRs)*
-	- Activated by mushroom-made *muscarin*
-	- 
+
+## [[Acetylcholine]]
+## [[Glutamate]]
+
+## [[GABA & Glycine]]
+
+## [[Biogenic Amines]]
+
+## [[ATP and Purines]]
+
+## [[Peptide Neurotransmitters]]
+
+## [[Unconventional neurotransmitters]]

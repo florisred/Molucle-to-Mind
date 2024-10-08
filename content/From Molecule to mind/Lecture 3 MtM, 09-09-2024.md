@@ -122,7 +122,7 @@ Evolutionary expansion of human cortical layers 2 and 3
 - Neuron physiology
 - Dendritic structure
 - Cortical structure
-- RNA patch-seq
+- [[From DNA to RNA#RNA|RNA]] patch-seq
 - MRI Brain imaging
 - Cognitive tests
 

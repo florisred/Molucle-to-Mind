@@ -1,5 +1,5 @@
 ## Codons
-- mRNA sequence is decoded in sets of three nucleotides called a *codon*
+- mRNA sequence is decoded in sets of three [[The structure of DNA#DNA Consists of Two Complementary Chains of Nucleotides|nucleotides]] called a *codon*
 	- This means that if only one or two nucleotides are added, the entirety of the gene will be misread. 
 - These are read during *translation*, the process of getting proteins from RNA
 - There are 64 different possibilities of three different nucleotides

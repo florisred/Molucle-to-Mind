@@ -1,0 +1,52 @@
+## Cognitive maps in the hippocampal formation
+- *Declarative* vs *Non-declarative* memories
+	- Declarative is like stories / episodes 
+		- *[[Hippocampus]]* is very important in associating context in episodes
+		- Sequence of events is remembered step-by-step association
+	- *Hippocampus* is very important in recognizing *where we are* in space
+		- Hippocampus has *place cells* -> they start to fire when an animal is in a specific place
+		-  *Entorhinal cortex* has these too, but has many that all correspond to a place in on the ground --> called *grid cells*
+			- Divide the space into a *hexagonal grid*
+				- The deeper you go in the *ER* (further towards dorsal->ventral axis), the more spaced out this will be
+		- ![[Pasted image 20241004164645.png|300]]
+	- This makes these structrures a *cognitive map* -> encodes self-location of the mice!
+	- If you could measure all the *place cells*, you could know exactly where the mouse is
+- Does the hippocampus then contain a map of every place the mouse has ever visited?
+	- *no* -> the map has to be built up over time -> *becomes more stable in a few days*
+		- Requires NMDA receptors to be active! [[Lecture Ch.8 Memory#Memory & molecular mechanisms|NMDA receptors]]
+- Other types of cells in the *ER*:
+	- *Border cells* -> only fire when in the edge of a grid cell place thingy
+	- *Head direction cells* -> fire at a specific direction the head is pointing
+- Other types of cells in the *hippocampal formation*
+	- Some other cells also fire when another animal is in a particular direction / place
+	- Reward cells will fire when the animal moves towards a rewared
+	- Boundary cells
+	- Goal directions cells
+## Does the cognitive map go beyond space?
+- Since context-related memories are processed by the hippocampus, does the cognitive map also extend to other modalities?
+- This was tested in the paper with *sound
+	- Sound consists of waves of compressed air that enter our eardrum
+	- If they oscillate fast enough, we can hear it as frequencies
+	- The *cognitive environment* is going to be a *frequency spectrum*
+		- Can the hippocampus encode *where in the frequency-space* where the animal is
+	- They put mice in a box with a lever, when they pulled it a sound started playing. When the sound got in a certain *frequency space* they need to release it![[Pasted image 20241004171724.png|400]]
+- They determined that frequency is the influencing factor, not time, by shifting the amount of time it takes to reach the *target zone*  ->> but is this done by hippocampus?
+	- They found three types of cells in the *HF* that respond:
+		1. Cells that fire only when first pulling down the lever
+		2. Cells that fire only when releasing the lever
+		3. Cells that ramp up in activity while the lever is pulled down
+			- It becomes stronger until it releases the lever, then it stops
+	- 40% of CA1 and 51% of MEC cells were significantly modulated during this task
+	- There is a complete representation of the task when looking at all the cells
+	- ![[Pasted image 20241004173215.png|300]]
+- So is this necessary for the task, or do they just respond to sound frequencies?
+	- only 1.7 % of CA1 cells respond to sound alone! 
+		- If we then make it predictive of a reward, 20.2% of cells were active, but *range of field* was much larger than during the first task
+- Are these *sound-space* cells also cells that are active during *spatial mapping?*
+	- 25.1% of hippocampus CA1 cells show activity in both conditions
+	- So there is *overlap*, but not 100%. Some cells take place in either or in none of these cognitive domains
+	- Same thing in the *entorhinal cortex*
+		- 34.3% of grid cells modulated by both sound and space
+		- Border & head direction cells are *also* modulated by the task!
+- Wider fields in grids correspond to wider fields during the task!
+	- When they enocde an environment there are cells that always cover a broader and cells that only cover a narrower part of the environment

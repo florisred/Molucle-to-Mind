@@ -1,0 +1,28 @@
+## Peptide neurotransmitters
+- Many peptides also act as neurotransmitters
+	- Often involved in emotion regulation, pain perception, or stress responses
+- They are fundamentally different from *small-molecule* transmitters
+- Normally synthesized much more large than a mature peptide
+	- these are *pre-propeptides*
+	- in the rough endoplasmic reticulum where a *signal-sequence* is removed -> then becomes a *propeptide*
+- Their activity depends on their amino acid sequence
+- five categories:
+	-  the brain/gut peptides;
+	- opioid peptides; 
+	- pituitary peptides; 
+	- hypothalamic releasing hormones; 
+	- a catch-all category containing others
+- First discovered: *substance P*
+	- Hypotensive agent
+	- in hippocampus and guts and many other things
+	- 11 amino acids long
+	- Gene that codes for substance p also codes for other neuropeptides
+- [[Overview neuropeptides]]
+### Opioid peptides
+-  Called so because their receptors are activated by opium
+- are often *analgesics*
+- Discovered while looking for *endorphins* -> the natural substances that activate these receptors
+	- We discovered more than 20, that fit in 3 classes
+- Almost all work through [[G-protein]]
+	- Require lower concentrations than normal neurotransmitters
+- Are very addictive!

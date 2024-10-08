@@ -31,3 +31,13 @@
 - [[EPSP, IPSP, and potential summation]]
 
 ## [[Ch6. Neurotransmitters and Their Receptors]]
+- [[Acetylcholine]]
+- [[Glutamate]]
+- [[GABA & Glycine]]
+- [[Biogenic Amines]]
+- [[ATP and Purines]]
+- [[Peptide Neurotransmitters]]
+- [[Unconventional neurotransmitters]]
+
+## [[Ch.7 Molecular Signaling within Neurons]]
+## [[Ch.8 Synaptic Plasticity]]

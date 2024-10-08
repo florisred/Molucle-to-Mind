@@ -7,7 +7,7 @@
 - Combine transmitter-binding and channel functions in one!
 ### metabotropic receptors / G-protein coupled receptors
 - Do not have ion channels in them --> rely on intervening metabolic steps
-	- Use *G-Proteins* as intermediary steps
+	- Use *G-Proteins* as intermediary steps --> [[Receptors#G-Protein|G-protein]]
 	- These are normally situated on the receptor, but when the receptor is triggered the G-protein decouples
 		- Then goes on to bind to / interact with ion channel directly
 ## Postsynaptic Membrane Permeability Changes during Synaptic Transmission
