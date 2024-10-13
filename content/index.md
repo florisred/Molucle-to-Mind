@@ -3,6 +3,12 @@
 
 ### [[Purves - Neuroscience 6th edition]]
 
+# Anatomy
+## Practicals
+- [[Practical 1]]
+- [[Practical 2]]
+- [[Practical 3]]
+
 # Lectures
 ## About the books
 #### Purves
@@ -26,6 +32,7 @@
 #### Neuroanatomy 
 - [[Presentations 23-09-2024]]
 - [[Presentations 07-10-2024]]
+- [[Presentations 09-10-2024]]
 
 #### Synbio
 - [[synbio 4-5, functional genomics of the synapse]]

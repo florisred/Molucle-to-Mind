@@ -53,7 +53,7 @@
 #### Second messenger
 - Cyclic AMP
 	- Forms from ATP when it reaches an adenylyl cyclase activated by activated G-protein
-	- cAMP makes PKA and activates cyclic nucleotide 
+	- cAMP makes [[Second messengers#cAMP-dependent protein kinase -> PKA|PKA]] and activates cyclic nucleotide 
 - Same happens with GTP to GMP
 	- Done by guanylyl which 
 - **Important**: G-protein activates other structures which then amplify the signal, which can amplify the signal again
