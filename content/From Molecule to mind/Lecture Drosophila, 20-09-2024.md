@@ -12,7 +12,7 @@
 	- Induces integration into novel site of genome DNA
 	- (recognizes target sequence)
 - using [[Lecture Yeast Model organism, 16-09-2024#Random mutagenesis|random mutagenesis]]
-![[Drawing Transposon|6000]]
+![[Pasted image 20241014232800.png]]
 ### Genetic manipulation & Classical conditioning in flies
 - You can condition flies with a shock, and they will learn how to avoid the shock
 	- An odor is connected to a fear response --> Flies learn this!
@@ -25,7 +25,7 @@
 	- If there is axon damage, there is an active pathway to destroy the cells
 		- Separate from apoptosis -> Cell body is spared!
 		- *lag phase* and *execution phase*
-![[Drawing axotomy|3000]]
+![[Pasted image 20241014232726.png]]
 - Johnsons organ Is a sensation neuron in the antennae of the fly
 	- detects weight change --> dust --> induces *grooming behavior* in the fly
 	- Through [[Optogenics]] we can activate the *CsChrimson* in Johnson's organ

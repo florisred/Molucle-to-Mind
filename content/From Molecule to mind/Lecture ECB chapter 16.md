@@ -69,9 +69,7 @@
 - (Often hydrophobic) signal molecules that go directly into cells
 	- Hydrophobic because it needs to penetrate the *cell membrane*
 ## Phosphorylation signaling, two modes:
-
-
-![[Phosphorylation & signaling|4000]]
+![[Pasted image 20241014233120.png]]
 ## Protein Kinase A
 - Inactive state:
 	 - Catalytic Domains 
@@ -79,7 +77,7 @@
 - Active state
 	- When cAMP binds to the regulatory domain, it unfolds
 	- Catalytic domains are then active
-![[Protein Kinase 1|4000]]
+![[Pasted image 20241014232953.png]]
 ## CAM-kinase activation
 - Ca<sup>2+</sup> / CaM binds to the regulatory site, unfolding it and freeing the catalytic domain
 ## Mechanism of protein kinase C  (PKC)
@@ -91,7 +89,7 @@
 - signal molecule in form of a dimer binds to two inactive RKT 
 	- Activates the tyrosine kinase domain
 	- When you bring them together, they phosphorylate each other
-![[RTK signals|4000]]
+![[Pasted image 20241014233030.png]]
 ### How is the signal relayed?
 - Activated protein binds to the phosphorylated RTK
 - Example: MAP [[kinase]]
