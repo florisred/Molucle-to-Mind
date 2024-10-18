@@ -1,6 +1,5 @@
 # Books
 ### [[Cell Biology]]
-
 ### [[Purves - Neuroscience 6th edition]]
 
 # Anatomy
@@ -35,6 +34,7 @@
 - [[Presentations 09-10-2024]]
 #### Paper
 - [[answer liu]]
+- [[Discussion of Nabavi paper]]
 
 #### Synbio
 - [[synbio 4-5, functional genomics of the synapse]]
@@ -46,5 +46,9 @@
 - *[[Lecture Mouse, 25-09-2024]]*
 #### Optogenics
 - [[Lecture Optogenics 1, 19-09-2024]]
+
+
+
+
 
 

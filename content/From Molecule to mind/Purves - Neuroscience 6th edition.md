@@ -50,4 +50,4 @@
 - [[Long-Term Potentiation at a Hippocampal Synapse]]
 - [[Mechanisms underlying LTP]]
 - [[Mechanisms underlying LTD]]
-## [[Ch.30 Memory]]
+

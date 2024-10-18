@@ -13,7 +13,7 @@
 		- Peptide-filled vesicles are brought to the synapse: *Axonal transport*
 		- When put in vesicles, they are called: *large dense-core vesicles*
 
-## Release of neurotransmittors
+# Release of neurotransmittors
 ## Quantal Release of Neurotransmitters
 - Much of the early info came from study of *neuromuscular junctions*
 	- Synapses there have *end plates* --> create *EPP*, End Plate Potential.
@@ -32,9 +32,9 @@
 	- Part of the *[[synaptic vesicle cycle]]*
 	- The vesicles and its parts are *recycled*, but originally come from cell body, endoplasmic reticulum etc.
 ### Calcium & transmitter secretion
-- lowering the *concentration* of Ca 2+ outside a presynaptic motor nerve terminal reduces the size of the *EPP*
+- lowering the *concentration* of Ca<sup>2+</sup> outside a presynaptic motor nerve terminal reduces the size of the *EPP*
 	- This is because *fewer vesicles* fuse with the membrane
-- *Ca2+ is a second messenger* -> Ca2+ regulates how many vesicles fuse
+- *Ca2+ is a second messenger* -> Ca<sup>2+</sup> regulates how many vesicles fuse
 	- A rise in Ca<sup>2+</sup> is both necessary and sufficient for neurotransmitter release
 	- We DO NOT YET KNOW WHY OR HOW!??!
 #### Molecular mechanisms of Synaptic Vesicle Cycling

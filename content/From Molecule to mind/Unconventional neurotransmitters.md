@@ -14,7 +14,9 @@
 - In the hippocampus and cerebellum, they serve as retrograde signal regulating GABA release
 	- *inhibiting the inhibitory GABA signal*!
 ### Nitrous Oxide (NO)
-- Gas produced by nitric *oxide synthase*
+- Gas produced by *nitric* *oxide synthase*
+	- Gas goes everywhere -> diffusion
+	- Reaches presynaptic site, allows for *retrograde signaling*
 - Can permeate cell membrane also -> can affect nearby cells before is degraded
 	- Great for coordinating many cells together
 - Considered a *Second messenger*

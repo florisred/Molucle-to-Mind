@@ -4,7 +4,7 @@
 	- This can help keep otherwise dangerous proteins separate from important structures
 	- Organelles lie in the *cytosol*, which is in turn kept in the cell by the *plasma membrane*
 	- *Nucleus* is the most prominent organelle
-		- Surrounded by a double membrane, called the *nuclear envelope*
+		- Surrounded by a double membrane, called the *[[nuclear envelope]]*
 		- Communicates via the *nuclear pores*
 		- Outer membrane is continuous with *endoplasmic reticulum*, (ER)
 	- *ER* is a network of tubes and sacs that spans a large part of the cell

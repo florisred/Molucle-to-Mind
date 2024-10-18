@@ -36,7 +36,7 @@
 	- They are attached after the chromosomes have duplicated and compacted themselves into *mitotic chromosomes* --> most easily visible under microscope
 #### Interphase Chromosomes Are Not Randomly Distributed Within the Nucleus
 - Each chromosome is in a specific part of the nucleus so it does not become entangled
-	- Can also be attached to the *nuclear envelope* (concentric membranes that surround the nucleus) or *nuclear lamina* (the protein meshwork that supports the envelope)
+	- Can also be attached to the *[[nuclear envelope]]* (concentric membranes that surround the nucleus) or *[[Intermediate filaments#What are Intermediate filaments?|nuclear lamina]]* (the protein meshwork that supports the envelope)
 - *Nucleolus*: where parts of the *chromosome* cluster together that encode *ribosomal RNAs*
 #### The DNA in Chromosomes is Always highly Condensed
 - DNA condensing is done by proteins that *coil* the DNA tightly

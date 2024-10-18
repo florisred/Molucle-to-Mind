@@ -6,7 +6,7 @@
 - Microtubules
 	- Long, hollow cylinders diameter *25nm*
 	- made of *tubulin*
-	- often bound to *centrosome*
+	- often bound to *[[Microtubules#The centrosome is the major microtubule-organizing center in animal cells|the centrosome]]*
 - Actin filaments
 	- *also called microfilaments*
 	- Helical polymers of *actin*
@@ -15,9 +15,9 @@
 - Built from monomers -> amino and carboxyl group wich can attach to one another and forms dimers / tetramers
 - Helps give cells the ability to stretch, so they don't rupture
 	- Gives strength to *nuclear membrane*
-	- Done by meshwork of intermediary filaments in the nucleus called *nuclear envelope*
+	- Done by meshwork of intermediary filaments in the nucleus called *[[nuclear envelope]]*
 ![[Pasted image 20241002092226.png]]
-## [[Microtubules]]
+## [[Microtubules example]]
 - Play different roles
 - They grow from the *centrosome* or basal bodies. 
 	- Cell division starts with the division of the *centrosome* and *nuclei*
