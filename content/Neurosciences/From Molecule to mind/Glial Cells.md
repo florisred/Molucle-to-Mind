@@ -16,7 +16,7 @@
 	- Act like *stem cells*
 ### Oligodendrocytes
 - Only in *CNS*
-- Create *Myelin* on *Schwann cells*
+- Create *Myelin* around the axons, in PNS this is done by *Schwann cells*
 - Some oligodendrocytes and Schwann cells can also act as stem cells
 ### Microglial cells
 -  Derived from *hematopoietic precursor cells*

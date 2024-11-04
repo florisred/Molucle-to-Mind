@@ -12,7 +12,7 @@
 - Comprised of *[[neurons]]* and supporting *[[glial cells]]*
 	- Most *[[Neurons]]* are specialized in signaling over long distances
 		- *[[Glial cells]]* do other tasks in brain, like reparation of damage
-		- - Neurons and glia share the complement of organelles found in all cells.
+			- Neurons and glia share the complement of organelles found in all cells.
 - Organelles shared by all cells including glia and neurons include endoplasmic reticulum, Golgi apparatus, mitochondria, and various vesicular structures.
 	- In neurons and glia, these organelles are often more prominent in different regions of the cell.
 		- Mitochondria tend to be concentrated at synapses in neurons.

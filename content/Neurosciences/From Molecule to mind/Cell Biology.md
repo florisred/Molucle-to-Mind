@@ -1,4 +1,3 @@
-[[Chapter 3 Cell biology]] --> dom dom dom
 ## [[Chapter 4 Cell Biology, Protein Structure and Function]]
 -  [[The Shape and Structure of proteins]]
 - [[How proteins work]]

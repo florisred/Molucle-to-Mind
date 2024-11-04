@@ -8,7 +8,8 @@
 ## EEG and cortical surface stimulation
 -  Electroencephalography *EEG* uses non-penetrating surface electrodes to detect changes in electrical activity 
 	- *ERP* (event related potential) can be used to see what pattern of electrical output is seen at a specific task
-- You can also stimulate the brain like this, to see what the effect is on behavior## TMS
+- You can also stimulate the brain like this, to see what the effect is on behavior
+## TMS
 - *Transcranial magnetic stimulation* gives electrical pulses to specific areas to block them and see what the result is
 - this is a newer method
 ## Computerized Tomography; *CT*

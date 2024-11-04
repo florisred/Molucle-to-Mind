@@ -10,7 +10,7 @@
 		- Have a lot of *ribosomes*
 	- Only *one* axon
 		- The amount of targets this axon has, represents the *divergence*
-- Axons and Dendrites connect at specialized sites, the *presynaptic* and*postsynaptic* regions. 
+- Axons and Dendrites connect at specialized sites, the *presynaptic* and *postsynaptic* regions. 
 	- Communication is not direct, but done with molecules called *neurotransmitters*
 		- Travel through the *synaptic cleft*
 ## Types of neurons
