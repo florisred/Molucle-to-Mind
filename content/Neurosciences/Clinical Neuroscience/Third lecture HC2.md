@@ -1,0 +1,62 @@
+## Why?
+- If you understand the disease, you have insight, and then you can use that insight to treat the disease
+- In the AMC we work with both clinicians and scientists to form an accurate picture of the disease
+## VWM is caused by pathogenic variants in EIF2B
+### Disease mechanism
+- Literature search, is there anything known about EIIF2B?
+	- Yes, it binds to the initiator tRNA<sup>MET</sup> within the ternary complex component of the preinitiation comlex
+	- eIF2B is essential for all cells, housekeeping & protein synthesis
+	- DNA -> transcription -> mRNA -> translation -> Pretein
+	- mRNA has a 5' *cap* (protects against decay and degredation) 
+	- Translation:
+		- Initiation phase: Before it begins
+		- Elongation phase: elongation of the protein
+		- Termination phase: Last, where it stops
+	- Translation initiation: 
+		- eIF2 has a GPT attached ( -> active molecule) and a Met attached
+		- Binds to 43S -> then has a high affinity for the *cap*, and starts the scanning phase
+			- Scans until it encounters an *AUG* (start) codon. 
+			- then, eIF2 is released and GTP is turned into GDP, and met is released
+			- Translation goes to *elongation* phase
+		- You then need something to restart translation -> eIF2B rephosphilates the eIF2-GTP!
+			- the cycle can start again!
+	- In this way, eIF2B regulates protein synthesis rate
+		- If there is less eIF2B, the cycle goes slower, so there is *less translation*
+		- This happens for example during *protein stress* -> [[First lecture HC2#Integrated stress response (ISR)|Integrated stress response]]
+		- Stress causes eIF2 to be phosphorylated (done by kinases)
+			- when that binds to eIF2B, GADD34, CHOP, and ATF4 are synthesized
+			- is a quick and adaptive response, that maintains proteostasis (the balance of proteins (it only slows it down) and saves energy)
+			- transcriptome changes -> the translation machinery becomes available for translation different set of mRNAs
+			- Stress-amelioration -> cells may suffer from too much stress and go into apoptosis
+	- So, a more complete picture: sensors (kinases) sense stress, and slow down protein synthesis
+### How do mutations in eIF2B then cause VWM?
+- Mouse model 
+	- Onset of ataxia at about 4 months of age in mice
+	- Caused a reduced life span
+	- Brain white matter: less myelin, white matter, etc
+- So then, they did an open screen 
+	- Polysomal profiling -> looking at different mRNAs that are differentially expressed
+	- Looked at *before* the disease was there, but *after* some white matter changes have happened
+	- Interestingly, many of the genes they tested *increased* in activity (not what was expected)
+		- You expect translation to go down with problems in eIF2B
+		- It was seen that ATF4 and CHOP (at least in mouse brain) increase the cascade of translation
+	- Then they saw that phosphorylation was *reduced*
+		- So the mutation itself reduces eIF2B, and sets in motion the whole cascade
+		- I am sorry people reading this, but she really spoke too softly for me to hear everything. I really tried to write down everything she said, but it was not easy.
+### Follow-up and conclusions
+ - Confirmed these findings with other assays (qPCR, western blot)
+ - Positive correlation between brain ISR mRNA levels and disease
+ - Dysregulated ISR proteins only in VWM astrocytes
+ - Findings reproduced in human white matter glia tissue (post mortem)
+ - ISR dysregulation in VWM astrocytes may hinder oligodendrocyte maturation (molecular, cellular mechanism)
+## How can we ameliorate the dysregulated ISR and with that VWM
+- If you want to intervene with drugs, you always want to know what to measure
+- You need to think about a lot of things: they are on the slide. 
+- She talks again about the [[First lecture HC2#Treatment of VWM|treatment]] of VWM discussed during the first lecture
+	- How to quantify Ataxia in mice?
+	-  Average speed, stride length
+- Can we target upstream of eIF2B? No, because eIF2B is already broken
+- At the level of eIF2B? -> yes, using an agonist
+- Downstream of eIF2B? -> which target then?
+- Close to eIF2B -> That is ofc the disease cause
+- 
