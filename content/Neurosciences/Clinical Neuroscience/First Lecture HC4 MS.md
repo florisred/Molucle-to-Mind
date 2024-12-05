@@ -75,8 +75,9 @@
 
 ## Clinical presentation
 ### Female, 25yr
-- Slowly progressive weakness left leg, 2 weeks, now stable
 - History / migraine
+- Episode of visual disturbances, unable to see using one eye
+- Slowly progressive weakness left leg, 2 weeks, now stable
 - NO/ paresis left leg, increases reflexes left leg
 - Could this be MS -> YES, seems to line up
 ### How do you diagnose it?
@@ -93,7 +94,7 @@
 	- Optic nerve, (juxta)cortical, periventrical, brainstem, spinal cord
 - Clinical DiS and DiT
 	- In three different areas, a patient may expericence three different dissemination -> DiT
-#### Imaging in MS - MRI
+## Imaging in MS - MRI
 - **DiT**
 	- Disease activity
 		- T2 lesions (white problems)

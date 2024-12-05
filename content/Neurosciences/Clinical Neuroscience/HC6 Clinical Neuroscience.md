@@ -1,0 +1,66 @@
+# Parkinsons
+- How to diagnose Parkinson’s?
+- First check if there is Parkinsonism, and if that is the case, whether it is attributable to PD
+## Parkinsonism: diagnosis essentials
+### Step 1: establish parkinsonism
+- *Bradykinesia* -> slow movement
+- *Rigidity* -> (not spasticity) 
+- *tremor*: not symmetrical, when counting backwards it got worse, when he focused it got less -> re-emergent resting tremor
+	- *Essential tremor* -> is something else, not PD
+		- Familiar, cause is unclear, mild degeneration in cerebellum
+		- Alcohol positive effect
+		- *Action tremor* -> when doing an action
+- *other motor symptoms:*
+	- Stopped posture, masked facial expression, rigidity, forward tilt trunk
+### Step 2: Is parkinsonism attributable to PD?
+- Clinically established PD vs Clinically Probable PD
+- Exclusion criteria:
+	- CLEAR clinical signs for a differential diagnosis
+		- *cerebellar abnormalities*
+		- *Downward vertical gaze palsy* -> can no longer look down (more likely PSP)
+		- *Diagnosis of behavioral fronto-temporal dementia or primary progressive aphasia*
+		- *Another Dementia*
+		- *Lower limb parkinsonism* -> more than 3 years
+		- *Drug induced parkinsonism* 
+		- *No L-dopa response*
+		- *Normal presynaptic dopaminergic neuroimaging* (not usually done)
+		- *Alternative condition*
+- Red flags: Clinical clues towards a differential diagnosis
+	- *Rapid progression of gait impairment* (wheelchair <5y)
+	- *Complete absence of motor symptom progression* in 5y
+	- *Early bulbar dysfunction (<5y) (problems with swallowing)*
+	- Early severe autonomic failure
+	- Recurrent falls within three years of onset
+	- Disproportionate anterocollis or contractures
+	- Absence of non-motor symptoms
+	- Pyramidal tract signs
+	- Symmetric parkinsonism
+- *MRI*: On indication only, if there are very clear doubts
+	- Vascular damage, 
+	- cross-bun sign -> leads to pons degeneration
+	- Hummingbird sign
+### More than dopamine only:
+- Also other problem systems
+	- Neuropsychiatric
+		- 30-40% have depression and anxiety, or cognitive disturbances
+		- Psychosis, visual hallucinations (40-50%)
+		- Impulse control (35-43%)
+	- Sleep:
+		- Insomnia, restless legs, REM sleep behavior disorder
+		- Excessive daytime sleepiness
+	- Autonomic:
+		- Orthostatic hypotension
+		- Obstipation
+		- Urine incontinence
+		- Impotence
+	- Rest
+		- Olfactory loss (90%)
+		- pain (30-85%)
+		- Tiredness (50%)
+## Treatment
+- Levadopa
+- Dopamine agonist
+- MAO-B inhibitor
+- Dosing needs to be found out, since the medication only works for a few hours
+	- If disease progresses, you need more and more medicine, and the threshold becomes too small
+		- You cannot have long effects of medicine

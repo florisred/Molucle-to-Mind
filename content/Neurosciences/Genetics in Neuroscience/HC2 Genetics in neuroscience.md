@@ -22,7 +22,7 @@
 	- You can use *DNA* to learn about the *underlying biological processes* 
 	- Could be useful for treatment
 ## What are the goals of disease genetics?
-- DFor a given disorder we would like to 
+- For a given disorder we would like to 
 	1. *Predict* if someone will sick
 		- Since DNA is fixed at birth, we can attribute *causal roles*
 	2. *Test hypotheses* about *relationships to other diseases* and traits
@@ -74,7 +74,7 @@
 - twin studies have found that most traits are consistent with a model where all genetic variance is *additive*
 	- One allele increases or decreases risk relative to the other allele
 	- Each copy of the risk allele increases trait linearly -> could be seen as a regression model
-## Linkage disequilibrium induces associations with non-causdal SNPs
+## Linkage disequilibrium induces associations with non-causal SNPs
 - If a mutation occurs, it is going to passed along with other alleles that share the same linkage disequilibrium
 	- It begins perfectly correlated with all alleles on a chromosomes (one individual)
 		- As more offspring exists, recombination will occur and the haplotype block will get smaller (chopped up), causing fewer alleles to be associated with each other 

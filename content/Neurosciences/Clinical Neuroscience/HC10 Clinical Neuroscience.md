@@ -1,0 +1,85 @@
+# Stress related biological pathways of major depressive disorder
+## Overview of depression
+- Sympotms
+- Depression treatment: 36% remission rate after the first course of antidepressants
+## Somatic disease + depression
+- Somatic disease is 40% more likely if you have depression
+- But, depression does not predict the onset of depression
+- With the exception of cancer, depression people have a higher prevalence of almost all somatic disease
+	- Might be an overlap between depression and cardio-maetabolic disorders
+		- The shape of this overlap depends on many factors (environmental)
+		- But, they do also share some biological pathways
+## HPA axis (stress response)
+- Enable reaction to stress
+	- Mobilization of stored energy, surpression immune function and facilitation of many processes of the CNS
+	- This axis is a feedback loop
+		- Cortisol released by adrenal gland and is supposed to shut down if receptors on hippocampus shuts it down
+			- In depression, this does not work
+- How to measure HPA-axis?
+	- Cortisol (but time dependent, and white coat effect)
+- Cushing's syndrome:
+	- Caused by tumor on the hypothalamus
+	- Symptoms: hypertension, diabetes, mood changes
+- **How is cortisol actually related to depression**?
+	- A small difference in higher cortisol in MDD patients
+	- Effect size small, especially in high quality studies
+	- High heterogeneity:
+		- Methods are different, over time it is different in a day
+			- In the morning much more prominent than later in the day
+	- There is something there, but its a mess!
+	- What can we do with all the info from this clinically?
+		- Nothing! 
+## Autonomic nervous system
+- Sympathetic nervous system vs Parasympathetic nervous system
+	- I just have a pathetic nervous system
+- Biomarker: Heart rate variability
+	- Low HRV indicates higher stress
+	- Heart rate very steady
+- In depression too?
+	- Until a few years ago, we thought it definitely affected HRV
+		- More dysregulation of nervous system
+	- A recent study from the netherlands showed the same, but they also checked for antidepressants
+		- Then, there is no difference in MDD not on SSRIs and healthy controls
+		- They divided the signal into those who are starting and stopping
+			- longitudinal study really showed that those who were starting tricyclic depression had lower heart rate variability than before
+		- HRV is thus driven by antidepressants, and is reversible
+	- There is some evidence that antidepressants increase risk of cardiometabolic disease
+		- But, this is an epidemiological study, but then its very hard to separate depression from antidepressants  (could also be caused by underlying depression)
+		- We need a long scale experimental trail to find this out
+## Immune system (inflammation)
+- Something that took of the last decades of the last century
+- Inflammation is relevant in cardiometabolic disease bc it shows a role in diabetes and atherosclerosis
+- Inflammation & immune response is regulated by cytokines
+	- Messengers of immune system
+	- Widespread effect
+	- Also communicate with other parts of the body -> for example brain
+		- Why? Fever response needs to be set up
+		- Also needs to generate behavioral response: *sick behavior*
+			- Strong fatigue. sense of withdrawal, etc -> you know the feeling
+			- If you are not likely to go out, you are not likely to infect others and worsen your own condition
+			- This pathway *is one of the main ones where depression physiology occurs*
+- **These motivational responses look a lot like depression**
+	- Why? theory based on animal model
+	- How?
+		- Cytokines enter brain, creates some neurotoxic effects and reduces neuroplasticity
+		- Why does this system become chronically activated?
+			- This mechanism in the past was fundamental to fight infection and disease, became less and less relevant in modern times
+			- Nowadays its triggered by environmental & social reasons, but according to the teacher it is too immune focussed
+				- Maybe this function was already built in, look at another phenotype
+					- aging: reduction in functionality, reduction in energy, etc
+						- Also caused by cytokines, so they are a bit broader
+						- Maybe cytokines are released when there is a problem with energy homeostasis
+						- Aging cells no longer work well but spend a lot of energy -> start to release cytokines -> signals low energy
+			- **Cytokines**: receptors in the brain impact a lot of motivational areas of the brain
+### Biomarker for inflammation: C-reactive protein
+- Rapid and significant response
+- Longer circulation time (longer than cytokines)
+- American Heart Association also provided some benchmarks:
+	- <1mg/L: -low risk
+	- 1-3mg/L -moderate risk
+	- >3mg/L -high risk
+- What we see is the same story as the other markers
+	- MDD cases has a *very small* increase of C-reactive protein (CRP)
+	- Big heterogeneity
+	- 
+						- 
