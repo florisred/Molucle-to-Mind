@@ -17,8 +17,8 @@
 # Brain & neural development - Dr. D.P. Bakker
 ## Learning objectives
 - Able to describe the landmarks in brain development
-- - 
-- - 
+- Understand disease resulting from abnormal development
+- Basic knowledge on pediatric neurological development
 ## Timeline
 - 24 weeks is the minimum age we try to keep children alive
 - In the timeline you can see which times the processes take place
@@ -65,6 +65,18 @@
 	- Continues in early life
 	- Brains way of becoming more efficient, and adapted to personal experiences
 ## Examples of problems in neural development
+### Neurulation
+- Inductive events that occur on the dorsal aspect of the embryo and results in the formation of the brain and spinal cord.
+	- Regulated by very specialized developmental processes
+- Ectoderm: Outermost tissue layer of the embryo
+	- Forms brain & spinal chord
+	- Follows *grastulation*
+	- Cells migrating to the interior of the embryo making 3 layers: Endoderm, mesoderm, ectoderm
+- After that, ectoderm is told to make neural plate -> then folds in on itself creating neural tube
+	- This is what CNS is! 
+	- Ectoderm creates both skin & neural cells, thats why they are so alike 
+- Then forms alar plate & basal plate
+	- Alar plate forms cerebral hemispheres, basal plate the diencephalon
 ### Spina Bifida & neurofibromatosis
 - Some neurological diseases can be diagnosed when you look to the skin
 	- These cells and neurons are related through the differentiation process
@@ -72,8 +84,10 @@
 		- *Paralysis*, *muscle weakness*
 		- *Insensitive skin* -> loss of sensation
 		- bladder & bowel disfunction
+		- ![[Pasted image 20241211150834.png]]
 - Not as prevalent anymore due to more *folic acid* in the diet
 - Neurofibromatisis causes spots on the skin -> more than six can indicate neural problems and access growth
+![[Pasted image 20241211151004.png]]
 ### Neuronal migration
 - The precursor neurons come from an area which is close to the ventricles
 	- They have to move and pass all the already-formed neurons to go to outside

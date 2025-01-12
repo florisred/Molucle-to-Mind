@@ -92,9 +92,3 @@
 	- Studies were not designed to test this
 	- A clinical trail found that it had no effect
 
-## we listen but we do not judge
-last van zwaartekracht
-in flauwvallen
-- raakt makkelijk de weg kwijt
-- je bent hier voor uitleg over de therapie
-	- 

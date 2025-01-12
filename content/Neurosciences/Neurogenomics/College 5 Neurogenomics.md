@@ -1,0 +1,22 @@
+Teacher: Matthijs Verhage
+Date: 07/02/2025
+
+## mRNA transport in neurons
+RNAs are transported in two different ways: Hitchhiking or direct
+### Polarized aspects of neurons
+In order to make a chemical synapse, you need highly specialized processes to direct particular components to particular places. Today we are going to discuss these.
+Dendrites are different from axons, of course. The synapses are on the axon, the postsynpase on the dendrite. Local protein synthesis was discussed yesterday, but also breakdown. Ruud will discuss that more later. Action potentials are self-propagating, meaning you only have to activate it once to make it travel through the axon. The decision to generate an AP is located in a specialized structure that acts as a molecular seethe. It makes the decision whether or not cargo goes in or not into the cell axons. Remember, these axons could be 1 meter long, so a good decision has to be made wether or not some cargo should go in.
+### How is transport organized
+Well, we all know the dynamic structure called [[microtubules]]. These are hollow structures made from alpha and beta tubulin, built on top of the nucleation point. You can visualize them easily in living cells (movie on the board), which almost looks like cars on a highway. They do this by visualizing the plus-end of the tubules with a fluorescent dye. The process of growing is called polymerisation, and the breaking down is depolymerisation and rescuing. You can call these the *train tracts of the cell*.
+This is highly dynamic, not only throughout development but during the whole life. While it is dynamic, it is also very highly regulated. The location of the track determines whether they remain stable for days, only sometimes rebuild, or are dynamic all of the time. 
+### Polarized organization of the cytoskeleton
+In mammalian cells, the structure is always one direction, with the plus ends out. In dendrites, there is some variation, where there are mixed orientations. [[Actin filaments|Actin]] is also a bit different, as it is a different class of cytoskeleton. So you build a structure that has a mix of two types of cytoskeletal components, namely Actin and Microtubules. This idea is used at the *seethe* to filter out undesired cargo. Actin is more like the sprinters, microtubules more like the intercity lines. 
+### Plus-tip interacting proteins
+There are a lot of proteins that selectively bind to the plus end of the filament. There are a lot of proteins that bind between other organelles (endoplasmic reticulum), which has to coordinate with the cytoskeleton. Same with the normal plasma membrane. 
+### How is cargo transported
+Mainly with motor proteins. These are dimers, with a foot region and a head region. The foot region propels, and the head region recognizes cargo. There are different motors, all these different kinesins. This is because we have many different types of cargo that need to go to different directions. So all of these related motor proteins carry out specialized tasks for where to go. Then, there are also myosins. Myosins are specialized to Actins, and Kinesins work on microtubules. [[Microtubules|Dyenin]] is like Kinesin, but going towards the minus-end. 
+Which kinesin is important for which type of transport? Well, people in utrecht looked at a synthetic system with the smallest organelle, a peroxisome. They used this peroxisome as a flag. They could acutely promote the binding of an organelle to a motor. They always used the FRB protein to connect the organelle to the motor. Then you can add different molecules to see if they have an effect on where it gets transported to. For example, if you add Rapalog1, all the peroxisomes will be transported to the axon. 
+### Activity dependent
+Matthijses lab found that axonal transport is activity dependent. They often stop after axonal stimulation. This especially happens at synapses, where kinesins generally preferentially stop. This happens because the calcium changes the affinity of the binding, to make them available. So, they unbind! Calcium therefore probably is a release agent for cargo. 
+### Actin does not overlap with microtubules
+Actin is really at the tip of the axon, at exctopic sites. Transport vesicles need to make a transition when deciding where to go. Myosin (again, very similar in structure of kinesin) again is for actin. The battle for whether to bind with Myosin or Kinesin is interesting. It is in the (post) synpase a lot, for local transport. 

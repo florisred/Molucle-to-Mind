@@ -40,7 +40,7 @@
 - In this case, it seems that there is a cyst in the bottom of the brain, and too much water in the white matter tracts
 - You can see that the white matter looks completely the opposite of how it is supposed to look (look at the NL type)
 - However, there is a plurality of phenotypes: Some children spontaneously recover completely
-### Another examle: Vanishing white matter
+### Another example: Vanishing white matter
 - In T2 you can see that the white matter looks darker
 - In flair, you can see that white matter is just turned into fluid
 - Histopathology:

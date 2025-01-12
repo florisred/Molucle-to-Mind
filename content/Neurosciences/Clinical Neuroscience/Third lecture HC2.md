@@ -4,9 +4,9 @@
 ## VWM is caused by pathogenic variants in EIF2B
 ### Disease mechanism
 - Literature search, is there anything known about EIIF2B?
-	- Yes, it binds to the initiator tRNA<sup>MET</sup> within the ternary complex component of the preinitiation comlex
+	- Yes, it binds to the initiator tRNA<sup>MET</sup> within the ternary complex component of the preinitiation complex
 	- eIF2B is essential for all cells, housekeeping & protein synthesis
-	- DNA -> transcription -> mRNA -> translation -> Pretein
+	- DNA -> transcription -> mRNA -> translation -> Protein
 	- mRNA has a 5' *cap* (protects against decay and degredation) 
 	- Translation:
 		- Initiation phase: Before it begins

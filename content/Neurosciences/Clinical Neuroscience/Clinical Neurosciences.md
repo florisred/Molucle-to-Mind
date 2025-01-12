@@ -8,3 +8,6 @@
 - [[HC7 Clinical Neuroscience]]
 - [[HC9 Clinical Neuroscience]]
 - [[HC10 Clinical Neuroscience]]
+- [[HC11 Clinical Neuroscience neuro-oncology]]
+- [[Things I learned upon re-reading the summary]]
+- 
